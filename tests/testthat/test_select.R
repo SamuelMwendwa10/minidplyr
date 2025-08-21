@@ -1,4 +1,4 @@
-test_that("my_select should work with variable indices", {
+test_that("my_select() should work with variable indices", {
   expect_equal(dim(my_select(iris, 1:3)), c(nrow(iris), 3))
   expect_equal(dim(my_select(iris, -1)), c(nrow(iris), 4))
   expect_equal(dim(my_select(iris, 1)), c(nrow(iris), 1))
