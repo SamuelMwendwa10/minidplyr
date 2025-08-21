@@ -7,10 +7,21 @@
 test(x, y)
 }
 \arguments{
-\item{x}{}
+\item{x}{A number}
 
-\item{y}{}
+\item{y}{A number}
+}
+\value{
+The sum `x + y´
 }
 \description{
-Title
+This will be the description
+}
+\details{
+This will be more details
+}
+\examples{
+
+test (4,5)
+test(3:4, 7:8)
 }
