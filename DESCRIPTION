@@ -1,8 +1,8 @@
 Package: minidplyr
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Efficiently Manipulate, Transform, and Summarize Tabular Data.
+Version: 0.0.1
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+    person("Samuel", "Mwendwa", , "samuelmwendwa2@gmail.com", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
 License: GPL-3
 Encoding: UTF-8

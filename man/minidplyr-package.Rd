@@ -4,7 +4,7 @@
 \name{minidplyr-package}
 \alias{minidplyr}
 \alias{minidplyr-package}
-\title{minidplyr: What the Package Does (One Line, Title Case)}
+\title{minidplyr: Efficiently Manipulate, Transform, and Summarize Tabular Data.}
 \description{
 What the package does (one paragraph).
 }
@@ -17,7 +17,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com}
+\strong{Maintainer}: Samuel Mwendwa \email{samuelmwendwa2@gmail.com}
 
 }
 \keyword{internal}
